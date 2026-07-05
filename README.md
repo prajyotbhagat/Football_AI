@@ -2,6 +2,10 @@
 
 This repository contains an object detection pipeline powered by **YOLOv8 (Ultralytics)**, designed to detect players, referees, goalkeepers, and footballs in match footage. It includes advanced training strategies optimized for stable gradient steps, high recall (>95%), and VRAM efficiency.
 
+## 📊 Example Prediction
+
+![Example Prediction](./download.png)
+
 ---
 
 ## 📂 Repository Structure
