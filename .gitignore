@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# YOLOv8 Football Detection
+yolo_dataset/
+football_detection/
+*.log
+*.pt
